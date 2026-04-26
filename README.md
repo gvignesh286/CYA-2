@@ -2,6 +2,8 @@
 Goal & Strategy I aspire to become a Product/Program Manager because of my interest in cross-functional leadership, strategy, and large-scale problem-solving. Instead of just pursuing one internship, I am developing PM skills through three different roles (customer empathy from working in food service, technical from working in IT helpdesk, strategic by applying to ~350 internships). I am continuing to apply for CS-related internships in hopes of gaining additional technical experience.
 
 Current experience:
+i met up with the managers at both the it helpdesk and the CUB dining Managers in person to ask for a job and got in touch with them for hiring me, didnt need a resume or cover letter.
+
 Carlita's and Lil Caesar's (Feb 2026 - Present): Working in customer-facing roles has given me the PM lesson that users do not ask for what they really need but rather hear what they want to hear; this is why as a PM you need to actively listen, confirm your assumptions with users, and understand your user on a deep level. I have also learned how to recognize operational gaps where I can fill in through cross-functional coordination like PMs do.
 
 Voiland IT Helpdesk (Mar 2026 - Present): I have helped architecture students print and found that any technical issue is connected to many technical issues - it's not just the printer, but also connectivity and drivers to permissions and workflows. Unsatisfied users reveal that there are unmet needs, which shows PMs how thinking about system stability can enhance a delivery process, that being able to communicate well requires having an understanding of the product delivery process, and that having good support systems for customers will provide insight into how to design a product.
